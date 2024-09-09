@@ -7,4 +7,12 @@ However, learners will be able to fork it to their personal Github account but c
 # animal-trading-cards
 Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
+# Project Requirements
+Used existing HTML, CSS knowledge and MDN, Google, etc to lookup more information to complete project.
+
+Downloaded zip file containg card.html, styles.css, placeholder.png, and the design-prototype.png (very imporant, the mockup I needed to duplicate).
+
+The final result after editing the HTML file with the animal's textual information, and some design elements, was to style the rest using a linked Cascading Style Sheet file. 
+
+Italics, bolds, customzed list properties (removed dots), borders, spacing, padding, the alt tag on the image, rounded corners on the trading card were used.
 
