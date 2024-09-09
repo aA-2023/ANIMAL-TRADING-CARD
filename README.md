@@ -16,3 +16,4 @@ The final result after editing the HTML file with the animal's textual informati
 
 Italics, bolds, customzed list properties (removed dots), borders, spacing, padding, the alt tag on the image, rounded corners on the trading card were used.
 
+After working on everything in VS Code, and the project passed on Udacity, the finished files were uploaded to Github
